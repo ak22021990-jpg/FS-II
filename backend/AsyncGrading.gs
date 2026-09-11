@@ -124,7 +124,7 @@ function computeAggregatesForAttempt(attemptId, ss) {
   const responsesByQId = {};
   for (let i = 1; i < responsesData.length; i++) {
     if (responsesData[i][0] === attemptId) {
-      responsesByQId[responsesData[i][1]] = { IsCorrect: responsesData[i][3] };
+      responsesByQId[responsesData[i][1]] = { IsCorrect: responsesData[i][3], Answer: responsesData[i][2] };
     }
   }
 
@@ -157,6 +157,65 @@ function computeAggregatesForAttempt(attemptId, ss) {
     let category = "english";
     if (q.bank === "attention") category = "attention";
     if (q.bank === "critical") category = "critical";
+
+    // Hybrid split marks (1 MCQ + 1 text): recompute parts from stored rows so
+    // post-override recomputation matches initial grading exactly.
+    if (q.response_type === "hybrid") {
+      const stored = responsesByQId[qId] || null;
+      const t = transcriptsByQId[qId] || null;
+      const ov = t && t.OverrideVerdict;
+      if (ov === "correct" || ov === "incorrect") {
+        // Recruiter override judges the whole answer: full marks or zero.
+        const w = getQuestionWeight(qId);
+        bankTotal[category]++;
+        weightedTotal += w;
+        if (ov === "correct") {
+          bankCorrect[category]++;
+          weightedCorrect += w;
+        }
+        if (q.difficulty_tier === "complex") {
+          complexTotal[category]++;
+          if (ov === "correct") complexCorrect[category]++;
+        }
+      } else {
+        let storedAnswer = null;
+        try { storedAnswer = stored && stored.Answer ? JSON.parse(stored.Answer) : null; } catch (e) { storedAnswer = null; }
+        const hasTranscript = !!(t && (t.Verdict === "correct" || t.Verdict === "incorrect" || t.Verdict === "ungraded"));
+        if (!hasTranscript) {
+          // Legacy row without transcript: fall back to stored single verdict.
+          const verdict = effectiveVerdict(t, stored);
+          if (verdict !== "ungraded") {
+            const w = getQuestionWeight(qId);
+            bankTotal[category]++;
+            weightedTotal += w;
+            if (verdict === "correct") {
+              bankCorrect[category]++;
+              weightedCorrect += w;
+            }
+            if (q.difficulty_tier === "complex") {
+              complexTotal[category]++;
+              if (verdict === "correct") complexCorrect[category]++;
+            }
+          } else {
+            ungradedCount++;
+          }
+        } else {
+          const parts = hybridSplitMarks(q, storedAnswer, t.Verdict);
+          const bothV = !parts.textGraded ? "ungraded" : ((parts.mcq && parts.text) ? "correct" : "incorrect");
+          bankTotal[category]++;
+          weightedTotal += parts.textGraded ? 2 : 1;
+          if (parts.mcq) weightedCorrect += 1;
+          if (parts.textGraded && parts.text) weightedCorrect += 1;
+          if (bothV === "correct") bankCorrect[category]++;
+          if (!parts.textGraded) ungradedCount++;
+          if (q.difficulty_tier === "complex") {
+            complexTotal[category]++;
+            if (bothV === "correct") complexCorrect[category]++;
+          }
+        }
+      }
+      return;
+    }
 
     const verdict = effectiveVerdict(transcriptsByQId[qId] || null, responsesByQId[qId] || null);
 
@@ -192,6 +251,28 @@ function computeAggregatesForAttempt(attemptId, ss) {
     narrativeInsight: computeNarrativeInsight(overallPercentage, englishPct, criticalPct, complexCorrect, complexTotal),
     ungradedCount: ungradedCount
   };
+}
+
+/**
+ * Split-mark helper for hybrid (closure) questions: MCQ status part + note-text
+ * part, 1 mark each (closure x2 total). Shared by gradeAndFinalizeAttempt
+ * (initial grading) and computeAggregatesForAttempt (post-override) so both
+ * paths stay identical.
+ * candidateAnswer: hybrid object ({selected, text}) or legacy string.
+ * textVerdict: "correct" | "incorrect" | "ungraded" | null.
+ */
+function hybridSplitMarks(q, candidateAnswer, textVerdict) {
+  const correctOption = q.options.find(function(o) { return o.is_correct; });
+  const correctLetter = correctOption ? correctOption.letter : "";
+  var selectedLetter = "";
+  if (candidateAnswer && typeof candidateAnswer === "object" && candidateAnswer.selected) {
+    selectedLetter = candidateAnswer.selected.toString().toLowerCase();
+  } else if (candidateAnswer && typeof candidateAnswer === "string") {
+    selectedLetter = candidateAnswer.toLowerCase();
+  }
+  const mcq = !!(selectedLetter && selectedLetter === correctLetter.toLowerCase());
+  const textGraded = textVerdict === "correct" || textVerdict === "incorrect";
+  return { mcq: mcq, textGraded: textGraded, text: textGraded && textVerdict === "correct" };
 }
 
 function gradeAndFinalizeAttempt(attemptId, submittedAnswersJson) {
@@ -267,6 +348,7 @@ function gradeAndFinalizeAttempt(attemptId, submittedAnswersJson) {
     const candidateAnswer = candidateAnswers[qId];
     let verdict = "incorrect";      // "correct" | "incorrect" | "ungraded"
     let transcript = null;          // rubric result for open_text/hybrid — feeds GradingTranscripts row
+    let hybridParts = null;         // hybrid split marks {mcq, textGraded, text} — 1 mark each
 
     // Map bank to major scoring category
     let category = "english";
@@ -288,24 +370,16 @@ function gradeAndFinalizeAttempt(attemptId, submittedAnswersJson) {
         : [];
       verdict = (JSON.stringify(correctLetters) === JSON.stringify(submittedLetters)) ? "correct" : "incorrect";
     } else if (q.response_type === "hybrid") {
-      // hybrid: grade MCQ selection + rubric-graded text portion
-      const correctOption = q.options.find(function(o) { return o.is_correct; });
-      const correctLetter = correctOption ? correctOption.letter : "";
-      var selectedLetter = "";
-      if (candidateAnswer && typeof candidateAnswer === "object" && candidateAnswer.selected) {
-        selectedLetter = candidateAnswer.selected.toString().toLowerCase();
-      } else if (candidateAnswer && typeof candidateAnswer === "string") {
-        selectedLetter = candidateAnswer.toLowerCase();
-      }
-      const mcqCorrect = !!(selectedLetter && selectedLetter === correctLetter.toLowerCase());
+      // hybrid: split marks -- MCQ status part (1) + rubric-graded note part (1).
+      // Verdict label stays both-required; text-ungraded flags the whole row
+      // ungraded while the MCQ mark still counts (see sums block below).
       const rubricResult = rubricResults[qId];
       transcript = rubricResult || null;
-      if (rubricResult && rubricResult.verdict === "ungraded") {
-        // rubric graded ungraded -> whole hybrid answer is ungraded (A2 denominator policy)
+      hybridParts = hybridSplitMarks(q, candidateAnswer, rubricResult && rubricResult.verdict);
+      if (!hybridParts.textGraded) {
         verdict = "ungraded";
       } else {
-        const textCorrect = rubricResult && rubricResult.verdict === "correct";
-        verdict = (mcqCorrect && textCorrect) ? "correct" : "incorrect";
+        verdict = (hybridParts.mcq && hybridParts.text) ? "correct" : "incorrect";
       }
     } else {
       // open_text: autograded by rubric
@@ -315,7 +389,24 @@ function gradeAndFinalizeAttempt(attemptId, submittedAnswersJson) {
     }
 
     // A2 denominator policy: ungraded is EXCLUDED from bankTotal/bankCorrect/complex tallies
-    if (verdict !== "ungraded") {
+    if (q.response_type === "hybrid" && hybridParts) {
+      // Split marks: MCQ part + text part (1 mark each, closure x2 total).
+      // Text-ungraded -> MCQ part still counts, text part excluded; flags review.
+      bankTotal[category]++;
+      weightedTotal += hybridParts.textGraded ? 2 : 1;
+      if (hybridParts.mcq) weightedCorrect += 1;
+      if (hybridParts.textGraded && hybridParts.text) weightedCorrect += 1;
+      if (verdict === "correct") {
+        correctCount++;
+        bankCorrect[category]++;
+      }
+      if (!hybridParts.textGraded) ungradedCount++;
+      // GRADE-03: Track difficulty_tier === 'complex' items specifically (NOT level/section)
+      if (q.difficulty_tier === "complex") {
+        complexTotal[category]++;
+        if (verdict === "correct") complexCorrect[category]++;
+      }
+    } else if (verdict !== "ungraded") {
       const w = getQuestionWeight(qId);
       bankTotal[category]++;
       weightedTotal += w;

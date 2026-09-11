@@ -4320,7 +4320,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q96",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-1",
@@ -4361,7 +4361,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q97",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-2",
@@ -4402,7 +4402,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q98",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-3",
@@ -4445,7 +4445,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q99",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-4",
@@ -4488,7 +4488,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q100",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-5",
@@ -4529,7 +4529,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q101",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-6",
@@ -4572,7 +4572,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q102",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-7",
@@ -4615,7 +4615,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q103",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-8",
@@ -4658,7 +4658,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q104",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-9",
@@ -4701,7 +4701,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q105",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-10",

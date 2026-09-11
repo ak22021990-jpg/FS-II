@@ -59,6 +59,7 @@ export default function AssemblyScreen({ name, attemptId, questions, onProceed, 
         default: return 'English Section';
       }
     } else if (bank === 'attention') {
+      if (section === 'closure') return 'Attention to Detail: Case Closure';
       return `Attention to Detail (${level || 'L1'})`;
     } else if (bank === 'critical') {
       return 'Critical Thinking Cases';

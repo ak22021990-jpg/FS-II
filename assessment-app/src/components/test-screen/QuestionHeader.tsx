@@ -10,10 +10,7 @@ interface QuestionHeaderProps {
   totalQuestions: number;
   cosmeticXp: number;
   animateXp: boolean;
-  timerColor: string;
-  pulseClass: string;
   showZoneOverlay: boolean;
-  timerVal: number;
 }
 
 export default function QuestionHeader({
@@ -23,10 +20,7 @@ export default function QuestionHeader({
   totalQuestions,
   cosmeticXp,
   animateXp,
-  timerColor,
-  pulseClass,
   showZoneOverlay,
-  timerVal,
 }: QuestionHeaderProps) {
   return (
     <div className="flex flex-wrap justify-between items-center gap-4 pb-5 border-b border-slate-200">
