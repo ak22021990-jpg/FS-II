@@ -398,7 +398,12 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
                 </div>
               )}
               <h3 className="text-xl font-bold leading-relaxed text-slate-900 whitespace-pre-wrap">
-                {currentQuestion.stem}
+                {/* Macro: stem embeds "Existing Macro:" block, but that text is already
+                    pre-filled editable in the answer box below — show scenario only
+                    so the broken macro doesn't appear twice. */}
+                {currentQuestion.section === 'macro'
+                  ? currentQuestion.stem.split('Existing Macro:\n')[0].trimEnd()
+                  : currentQuestion.stem}
               </h3>
 
               {/* MCQ Options (for mcq_single, mcq_multi, hybrid) */}
@@ -417,7 +422,9 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
               {isOpenText && (
                 <div className="flex flex-col gap-2">
                   <label className="text-sm font-bold uppercase tracking-[1px] text-accent">
-                    Your Answer
+                    {currentQuestion.section === 'macro'
+                      ? 'Fix the grammar errors in the macro below'
+                      : 'Your Answer'}
                   </label>
                   <textarea
                     value={openTextValue}

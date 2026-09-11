@@ -992,7 +992,7 @@ const QUESTIONS = [
     "options": [
       {
         "letter": "a",
-        "text": "are",
+        "text": "had",
         "is_correct": false
       },
       {
@@ -2884,11 +2884,11 @@ const QUESTIONS = [
     "tabs": null,
     "tables": null,
     "response_type": "open_text",
-    "stem": "Customer Scenario:\nA property owner is upset because a guest who never stayed at the property left a negative review. The review discusses the booking and check-in experience.\n\nExisting Macro:\nHello {{ticket.requester.first_name}},\nThanks for contact us. Your case is handle by our specialist team who checking integrity issue. They will review and make final decision.\nThank you for understand.\n{{ticket.assignee.signature}}\nContent Integrity Team",
+    "stem": "Customer Scenario:\nA property owner is upset because a guest who never stayed at the property left a negative review. The review discusses the booking and check-in experience.\n\nExisting Macro:\nHello {{ticket.requester.first_name}},\nThank you for contact us.\nWe understand your concern regarding the review. After reviewing the informations provided, we found that reviews discussing booking or check-in experiences may be allow under our guideline.\nIf you would like to share your perspective, we encourages you to post a management response to the review.\nThank you for understanding.\n{{ticket.assignee.signature}}\nContent Integrity Team",
     "options": [],
     "model_answer": "Hello {{ticket.requester.first_name}},\nThank you for contacting us.\nWe understand your concern regarding the review. After reviewing the information provided, we found that reviews discussing booking or check-in experiences may be allowed under our guidelines.\nIf you would like to share your perspective, we encourage you to post a management response to the review.\nThank you for your understanding.\n{{ticket.assignee.signature}}\nContent Integrity Team",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 1.0, description: "The rewritten macro must be grammatically correct with proper punctuation and register, no informal contractions, and appropriate formal salutation and sign-off. If the corrected response makes sense, award full credit." }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "Corrects the planted errors in the macro ('contact' to 'contacting'; 'informations' to 'information'; 'may be allow' to 'may be allowed'; 'guideline' to 'guidelines'; 'encourages' to 'encourage'; 'for understanding' to 'for your understanding'). If the corrected response makes sense, award full credit. Rewritten responses that preserve the essential meaning also receive full credit." }
     ] },
 
     "position": 61,
@@ -3017,11 +3017,11 @@ const QUESTIONS = [
     "tabs": null,
     "tables": null,
     "response_type": "open_text",
-    "stem": "Customer Scenario:\nA traveler has already submitted all the requested documents and is asking for an update on their case.\n\nExisting Macro:\nHello,\nPlease upload your booking confirmation and ID proof so we can start investigation. If not receive in 48 hours case will closed.\nThanks.",
+    "stem": "Customer Scenario:\nA traveler has already submitted all the requested documents and is asking for an update on their case.\n\nExisting Macro:\nHello,\nThank you for contact us.\nWe have receive the documents you submitted. Your case is currently under reviewed by our specialist team, and we will notify you once the investigation have been complete.\nThank you for your patient.\nContent Integrity Team",
     "options": [],
     "model_answer": "Hello,\nThank you for contacting us.\nWe have received the documents you submitted. Your case is currently under review by our specialist team, and we will notify you once the investigation has been completed.\nThank you for your patience.\nContent Integrity Team",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 1.0, description: "The rewritten macro must be grammatically correct with appropriate sentence structure and punctuation. If the corrected response makes sense, award full credit." }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "Corrects the planted errors in the macro ('contact' to 'contacting'; 'receive' to 'received'; 'reviewed' to 'review'; 'have' to 'has'; 'complete' to 'completed'; 'patient' to 'patience'). If the corrected response makes sense, award full credit. Rewritten responses that preserve the essential meaning also receive full credit." }
     ] },
 
     "position": 66,
@@ -3123,11 +3123,11 @@ const QUESTIONS = [
     "tabs": null,
     "tables": null,
     "response_type": "open_text",
-    "stem": "Customer Scenario:\nA property owner has not provided sufficient evidence to support their report. The investigation cannot proceed until the required information is received.\n\nExisting Macro:\nHello,\nWe found policy violation and removed review already. Thank you for reporting.\nRegards.",
+    "stem": "Customer Scenario:\nA property owner has not provided sufficient evidence to support their report. The investigation cannot proceed until the required information is received.\n\nExisting Macro:\nHello,\nThank you for contacting us.\nAt this time, we do not have sufficient informations to continue our investigation. Kindly provides the requested supporting evidences so that we can review you report further.\nThank you for your cooperate.\nRegards,\nContent Integrity Team",
     "options": [],
     "model_answer": "Hello,\nThank you for contacting us.\nAt this time, we do not have sufficient information to continue our investigation. Kindly provide the requested supporting evidence so that we can review your report further.\nThank you for your cooperation.\nRegards,\nContent Integrity Team",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 1.0, description: "The rewritten macro must be grammatically correct with proper punctuation and register. If the corrected response makes sense, award full credit." }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "Corrects the planted errors in the macro ('informations' to 'information'; 'provides' to 'provide'; 'evidences' to 'evidence'; 'you report' to 'your report'; 'cooperate' to 'cooperation'). If the corrected response makes sense, award full credit. Rewritten responses that preserve the essential meaning also receive full credit." }
     ] },
 
     "position": 70,
