@@ -992,7 +992,7 @@ const QUESTIONS = [
     "options": [
       {
         "letter": "a",
-        "text": "are",
+        "text": "had",
         "is_correct": false
       },
       {
@@ -2219,9 +2219,7 @@ const QUESTIONS = [
     "options": [],
     "model_answer": "The property owner stated that the review is fake.",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 0.5, description: "Corrects subject-verb agreement 'owner say' to 'owner states' or 'stated'; adds appropriate tense marking for reported speech" },
-      { name: "Meaning Preservation", weight: 0.3, description: "Retains meaning: owner claims review is fake" },
-      { name: "Professional Tone", weight: 0.2, description: "Uses past tense for reported speech; formal register" }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "Corrects the subject-verb agreement error 'owner say' with an appropriate, grammatically correct reporting verb (e.g., 'states,' 'stated,' 'claims,' 'claimed,' 'says,' or 'said'). If the corrected response makes sense, award full credit." }
     ] },
 
     "position": 36,
@@ -2246,9 +2244,7 @@ const QUESTIONS = [
     "options": [],
     "model_answer": "We did not receive sufficient evidence to proceed with the investigation.",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 0.5, description: "Corrects 'didn't received' to 'did not receive' (base form after did); changes uncountable 'evidences' to 'evidence'" },
-      { name: "Meaning Preservation", weight: 0.3, description: "Retains meaning: insufficient evidence received" },
-      { name: "Professional Tone", weight: 0.2, description: "Formal register; avoids contractions" }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "Corrects 'didn't received' to 'did not receive' (base form after did) and uncountable 'evidences' to 'evidence'. If the corrected response makes sense, award full credit." }
     ] },
 
     "position": 37,
@@ -2273,9 +2269,7 @@ const QUESTIONS = [
     "options": [],
     "model_answer": "Please provide your booking ID so that we can verify your stay.",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 0.5, description: "Corrects 'for verify' to 'so that we can verify' or 'to verify' (infinitive of purpose or subordinate clause required)" },
-      { name: "Meaning Preservation", weight: 0.3, description: "Retains meaning: request for booking ID to verify stay" },
-      { name: "Professional Tone", weight: 0.2, description: "Polite request; appropriate customer service tone" }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "Corrects 'for verify' to 'so that we can verify' or 'to verify' (infinitive of purpose or subordinate clause required). If the corrected response makes sense, award full credit." }
     ] },
 
     "position": 38,
@@ -2890,13 +2884,11 @@ const QUESTIONS = [
     "tabs": null,
     "tables": null,
     "response_type": "open_text",
-    "stem": "Customer Scenario:\nA property owner is upset because a guest who never stayed at the property left a negative review. The review discusses the booking and check-in experience.\n\nExisting Macro:\nHello {{ticket.requester.first_name}},\nThanks for contact us. Your case is handle by our specialist team who checking integrity issue. They will review and make final decision.\nThank you for understand.\n{{ticket.assignee.signature}}\nContent Integrity Team",
+    "stem": "Customer Scenario:\nA property owner is upset because a guest who never stayed at the property left a negative review. The review discusses the booking and check-in experience.\n\nExisting Macro:\nHello {{ticket.requester.first_name}},\nThank you for contact us.\nWe understand your concern regarding the review. After reviewing the informations provided, we found that reviews discussing booking or check-in experiences may be allow under our guideline.\nIf you would like to share your perspective, we encourages you to post a management response to the review.\nThank you for understanding.\n{{ticket.assignee.signature}}\nContent Integrity Team",
     "options": [],
     "model_answer": "Hello {{ticket.requester.first_name}},\nThank you for contacting us.\nWe understand your concern regarding the review. After reviewing the information provided, we found that reviews discussing booking or check-in experiences may be allowed under our guidelines.\nIf you would like to share your perspective, we encourage you to post a management response to the review.\nThank you for your understanding.\n{{ticket.assignee.signature}}\nContent Integrity Team",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 0.3, description: "Grammatically correct; proper punctuation and register throughout; no informal contractions; appropriate formal salutation and sign-off" },
-      { name: "Professional Tone", weight: 0.3, description: "Polite and empathetic; acknowledges the owner's concern about the review; does not dismiss or invalidate the complaint; avoids definitive promises about outcome" },
-      { name: "Instruction Adherence", weight: 0.4, description: "Explains that reviews discussing booking or check-in experiences may be allowed under guidelines; suggests posting a management response as a constructive next step; does not incorrectly promise removal of the review" }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "Corrects the planted errors in the macro ('contact' to 'contacting'; 'informations' to 'information'; 'may be allow' to 'may be allowed'; 'guideline' to 'guidelines'; 'encourages' to 'encourage'; 'for understanding' to 'for your understanding'). If the corrected response makes sense, award full credit. Rewritten responses that preserve the essential meaning also receive full credit." }
     ] },
 
     "position": 61,
@@ -3025,13 +3017,11 @@ const QUESTIONS = [
     "tabs": null,
     "tables": null,
     "response_type": "open_text",
-    "stem": "Customer Scenario:\nA traveler has already submitted all the requested documents and is asking for an update on their case.\n\nExisting Macro:\nHello,\nPlease upload your booking confirmation and ID proof so we can start investigation. If not receive in 48 hours case will closed.\nThanks.",
+    "stem": "Customer Scenario:\nA traveler has already submitted all the requested documents and is asking for an update on their case.\n\nExisting Macro:\nHello,\nThank you for contact us.\nWe have receive the documents you submitted. Your case is currently under reviewed by our specialist team, and we will notify you once the investigation have been complete.\nThank you for your patient.\nContent Integrity Team",
     "options": [],
     "model_answer": "Hello,\nThank you for contacting us.\nWe have received the documents you submitted. Your case is currently under review by our specialist team, and we will notify you once the investigation has been completed.\nThank you for your patience.\nContent Integrity Team",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 0.3, description: "Grammatically correct; appropriate sentence structure and punctuation" },
-      { name: "Professional Tone", weight: 0.3, description: "Responsive and reassuring; acknowledges receipt of the traveler's submitted documents" },
-      { name: "Instruction Adherence", weight: 0.4, description: "Confirms documents have been received; states the case is currently under review; does not incorrectly request documents again; promises notification once complete" }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "Corrects the planted errors in the macro ('contact' to 'contacting'; 'receive' to 'received'; 'reviewed' to 'review'; 'have' to 'has'; 'complete' to 'completed'; 'patient' to 'patience'). If the corrected response makes sense, award full credit. Rewritten responses that preserve the essential meaning also receive full credit." }
     ] },
 
     "position": 66,
@@ -3133,13 +3123,11 @@ const QUESTIONS = [
     "tabs": null,
     "tables": null,
     "response_type": "open_text",
-    "stem": "Customer Scenario:\nA property owner has not provided sufficient evidence to support their report. The investigation cannot proceed until the required information is received.\n\nExisting Macro:\nHello,\nWe found policy violation and removed review already. Thank you for reporting.\nRegards.",
+    "stem": "Customer Scenario:\nA property owner has not provided sufficient evidence to support their report. The investigation cannot proceed until the required information is received.\n\nExisting Macro:\nHello,\nThank you for contacting us.\nAt this time, we do not have sufficient informations to continue our investigation. Kindly provides the requested supporting evidences so that we can review you report further.\nThank you for your cooperate.\nRegards,\nContent Integrity Team",
     "options": [],
     "model_answer": "Hello,\nThank you for contacting us.\nAt this time, we do not have sufficient information to continue our investigation. Kindly provide the requested supporting evidence so that we can review your report further.\nThank you for your cooperation.\nRegards,\nContent Integrity Team",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 0.3, description: "Grammatically correct; proper punctuation and register throughout" },
-      { name: "Professional Tone", weight: 0.3, description: "Polite and cooperative; does not falsely claim a violation was found or that the review was already removed" },
-      { name: "Instruction Adherence", weight: 0.4, description: "States that insufficient evidence has been provided; explains the investigation cannot proceed without it; requests the specific supporting evidence needed" }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "Corrects the planted errors in the macro ('informations' to 'information'; 'provides' to 'provide'; 'evidences' to 'evidence'; 'you report' to 'your report'; 'cooperate' to 'cooperation'). If the corrected response makes sense, award full credit. Rewritten responses that preserve the essential meaning also receive full credit." }
     ] },
 
     "position": 70,
@@ -4332,7 +4320,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q96",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-1",
@@ -4360,9 +4348,7 @@ const QUESTIONS = [
     ],
     "model_answer": "Reviewed the reported listing and confirmed it had already been removed due to policy violations. No further action is required from the user.",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 0.4, description: "Correct tense and agreement; clean punctuation and spelling; no fragments or run-ons in closure note" },
-      { name: "Meaning Preservation", weight: 0.4, description: "Confirms listing was removed due to policy violations; states no further action required from user" },
-      { name: "Professional Tone", weight: 0.2, description: "Polite, professional, empathetic; acknowledges the customer's concern before affirming the resolution" }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "The closure note must use correct tense and agreement with clean punctuation and spelling, no fragments or run-ons. If the note makes sense, award full credit." }
     ] },
 
     "position": 96,
@@ -4375,7 +4361,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q97",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-2",
@@ -4403,9 +4389,7 @@ const QUESTIONS = [
     ],
     "model_answer": "Reviewed the reported review and available evidence. No policy violations were identified, and the review will remain published. Case resolved.",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 0.4, description: "Grammatically correct closure note; proper punctuation; register appropriate for an internal case note" },
-      { name: "Meaning Preservation", weight: 0.4, description: "Accurately reflects that no policy violations were identified, the review will remain published, and the case is resolved" },
-      { name: "Professional Tone", weight: 0.2, description: "Factual and concise; confirms resolution without unnecessary elaboration" }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "The closure note must be grammatically correct with proper punctuation and register appropriate for an internal case note. If the note makes sense, award full credit." }
     ] },
 
     "position": 97,
@@ -4418,7 +4402,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q98",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-3",
@@ -4461,7 +4445,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q99",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-4",
@@ -4504,7 +4488,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q100",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-5",
@@ -4532,9 +4516,7 @@ const QUESTIONS = [
     ],
     "model_answer": "Reviewed the submitted verification documents and found the images to be unclear. Requested clearer copies to continue the verification process.",
     rubric: { version: 1, criteria: [
-      { name: "Grammar & Mechanics", weight: 0.4, description: "Grammatically correct; clean punctuation throughout" },
-      { name: "Meaning Preservation", weight: 0.4, description: "Accurately reflects that the submitted ID images are unclear, clearer copies are required, and verification cannot continue until they are provided" },
-      { name: "Professional Tone", weight: 0.2, description: "Clear, polite tone; requests clearer copies without blaming the traveler; does not prematurely confirm resolution" }
+      { name: "Grammar & Mechanics", weight: 1.0, description: "The closure note must be grammatically correct with clean punctuation. If the note makes sense, award full credit." }
     ] },
 
     "position": 100,
@@ -4547,7 +4529,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q101",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-6",
@@ -4590,7 +4572,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q102",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-7",
@@ -4633,7 +4615,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q103",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-8",
@@ -4676,7 +4658,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q104",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-9",
@@ -4719,7 +4701,7 @@ const QUESTIONS = [
   },
   {
     "id": "eng-closure-q105",
-    "bank": "english",
+    "bank": "attention",
     "section": "closure",
     "level": null,
     "case_id": "eng-closure-10",

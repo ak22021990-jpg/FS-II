@@ -25,7 +25,6 @@ interface TestScreenProps {
 export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: TestScreenProps) {
   const [currentIdx, setCurrentIdx] = useState(0);
   const [answers, setAnswers] = useState<AnswersMap>({});
-  const [timerVal, setTimerVal] = useState(60);
   const [cosmeticXp, setCosmeticXp] = useState(0);
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
   const [animateXp, setAnimateXp] = useState(false);
@@ -35,7 +34,6 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
   const [activeZoneKey, setActiveZoneKey] = useState<string | null>(null);
   const [zoneQuestionCount, setZoneQuestionCount] = useState(0);
   const lastZoneKeyRef = useRef<string | null>(null);
-  const [timerPaused, setTimerPaused] = useState(false);
   // Two-phase transition: 'complete' celebrates the finished zone, 'brief' introduces the next one.
   // First zone of the test skips 'complete' and shows 'brief' directly.
   const [overlayPhase, setOverlayPhase] = useState<'complete' | 'brief'>('brief');
@@ -46,7 +44,6 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
   // Hybrid state
   const [hybridTextValue, setHybridTextValue] = useState('');
 
-  const timerRef = useRef<NodeJS.Timeout | null>(null);
   const videoRef = useRef<HTMLVideoElement | null>(null);
 
   // Helper for silent logging
@@ -97,7 +94,6 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
 
     return () => {
       document.removeEventListener('contextmenu', handleContextMenu);
-      if (timerRef.current) clearInterval(timerRef.current);
     };
   }, []);
 
@@ -135,7 +131,6 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
           setOverlayPhase('brief');
         }
         setShowZoneOverlay(true);
-        setTimerPaused(true);
       }
     }
 
@@ -169,41 +164,7 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
     }
   }, [currentIdx, currentQuestion]);
 
-  // Set up timer when current question changes (only when not paused by overlay)
-  // Timer runs but does NOT auto-submit — user can take unlimited time
-  useEffect(() => {
-    if (!currentQuestion || timerPaused) return;
-
-    // Timer configuration based on bank/section (for reference/logging only)
-    let duration = 60;
-    if (currentQuestion.bank === 'english') {
-      duration = currentQuestion.section === 'reading' ? 180 : 60;
-    } else if (currentQuestion.bank === 'attention') {
-      duration = 120;
-    } else if (currentQuestion.bank === 'critical') {
-      duration = 180;
-    }
-
-    setTimerVal(duration);
-    setErrorMsg(null);
-
-    if (timerRef.current) clearInterval(timerRef.current);
-
-    // Timer continues to count down but does NOT auto-submit
-    timerRef.current = setInterval(() => {
-      setTimerVal((prev) => {
-        // Just decrement, don't auto-submit
-        if (prev <= 0) {
-          return 0;
-        }
-        return prev - 1;
-      });
-    }, 1000);
-
-    return () => {
-      if (timerRef.current) clearInterval(timerRef.current);
-    };
-  }, [currentIdx, currentQuestion, timerPaused]);
+  // No timers anywhere — candidates take unlimited time per question.
 
   const handleBeginZone = useCallback(() => {
     // From the 'complete' celebration screen, advance to the next zone's brief instead of closing.
@@ -212,7 +173,6 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
       return;
     }
     setShowZoneOverlay(false);
-    setTimerPaused(false);
   }, [overlayPhase]);
 
   if (!currentQuestion) return null;
@@ -222,11 +182,6 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
   const levelName = currentQuestion.bank === 'attention' ? 'Level 2: Attention to Detail'
     : currentQuestion.bank === 'critical' ? 'Level 3: Critical Thinking'
     : 'Level 1: English Proficiency';
-
-  const timerColor = timerVal <= 10 ? 'text-error border-error/30 bg-error/5'
-    : timerVal <= 20 ? 'text-amber-500 border-amber-500/30 bg-amber-500/5'
-    : 'text-accent border-accent/20';
-  const pulseClass = timerVal <= 10 ? 'animate-pulse' : '';
 
   const currentSelection = answers[currentQuestion.id] || null;
 
@@ -310,7 +265,6 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
     }
 
     if (nextIdx >= questions.length) {
-      if (timerRef.current) clearInterval(timerRef.current);
       onSubmit(answers);
     } else {
       setCurrentIdx(nextIdx);
@@ -365,10 +319,7 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
             totalQuestions={questions.length}
             cosmeticXp={cosmeticXp}
             animateXp={animateXp}
-            timerColor={timerColor}
-            pulseClass={pulseClass}
             showZoneOverlay={showZoneOverlay}
-            timerVal={timerVal}
           />
 
           {/* Main Body Columns */}
@@ -398,7 +349,12 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
                 </div>
               )}
               <h3 className="text-xl font-bold leading-relaxed text-slate-900 whitespace-pre-wrap">
-                {currentQuestion.stem}
+                {/* Macro: stem embeds "Existing Macro:" block, but that text is already
+                    pre-filled editable in the answer box below — show scenario only
+                    so the broken macro doesn't appear twice. */}
+                {currentQuestion.section === 'macro'
+                  ? currentQuestion.stem.split('Existing Macro:\n')[0].trimEnd()
+                  : currentQuestion.stem}
               </h3>
 
               {/* MCQ Options (for mcq_single, mcq_multi, hybrid) */}
@@ -417,7 +373,9 @@ export default function TestScreen({ questions, onSubmit, attemptId, gasUrl }: T
               {isOpenText && (
                 <div className="flex flex-col gap-2">
                   <label className="text-sm font-bold uppercase tracking-[1px] text-accent">
-                    Your Answer
+                    {currentQuestion.section === 'macro'
+                      ? 'Fix the grammar errors in the macro below'
+                      : 'Your Answer'}
                   </label>
                   <textarea
                     value={openTextValue}

@@ -1,0 +1,5922 @@
+[
+  {
+    "id": "eng-grammar-q01",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 1: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q02",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 2: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q03",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 3: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q04",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 4: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q05",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 5: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q06",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 6: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q07",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 7: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q08",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 8: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q09",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 9: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q10",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 10: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q11",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 11: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-grammar-q12",
+    "bank": "english",
+    "section": "grammar",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "Grammar question 12: The agent ___ correctly.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-sc-q01",
+    "bank": "english",
+    "section": "sentence_correction",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "open_text",
+    "stem": "Correct the following sentence 1.",
+    "options": []
+  },
+  {
+    "id": "eng-sc-q02",
+    "bank": "english",
+    "section": "sentence_correction",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "open_text",
+    "stem": "Correct the following sentence 2.",
+    "options": []
+  },
+  {
+    "id": "eng-sc-q03",
+    "bank": "english",
+    "section": "sentence_correction",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "open_text",
+    "stem": "Correct the following sentence 3.",
+    "options": []
+  },
+  {
+    "id": "eng-sc-q04",
+    "bank": "english",
+    "section": "sentence_correction",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "open_text",
+    "stem": "Correct the following sentence 4.",
+    "options": []
+  },
+  {
+    "id": "eng-sc-q05",
+    "bank": "english",
+    "section": "sentence_correction",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "open_text",
+    "stem": "Correct the following sentence 5.",
+    "options": []
+  },
+  {
+    "id": "eng-sc-q06",
+    "bank": "english",
+    "section": "sentence_correction",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "open_text",
+    "stem": "Correct the following sentence 6.",
+    "options": []
+  },
+  {
+    "id": "eng-sc-q07",
+    "bank": "english",
+    "section": "sentence_correction",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "open_text",
+    "stem": "Correct the following sentence 7.",
+    "options": []
+  },
+  {
+    "id": "eng-sc-q08",
+    "bank": "english",
+    "section": "sentence_correction",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "open_text",
+    "stem": "Correct the following sentence 8.",
+    "options": []
+  },
+  {
+    "id": "eng-macro-q01",
+    "bank": "english",
+    "section": "macro",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "open_text",
+    "stem": "Macro question 1: Edit the following macro template.",
+    "options": []
+  },
+  {
+    "id": "eng-macro-q02",
+    "bank": "english",
+    "section": "macro",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "open_text",
+    "stem": "Macro question 2: Edit the following macro template.",
+    "options": []
+  },
+  {
+    "id": "eng-macro-q03",
+    "bank": "english",
+    "section": "macro",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "open_text",
+    "stem": "Macro question 3: Edit the following macro template.",
+    "options": []
+  },
+  {
+    "id": "eng-macro-q04",
+    "bank": "english",
+    "section": "macro",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "open_text",
+    "stem": "Macro question 4: Edit the following macro template.",
+    "options": []
+  },
+  {
+    "id": "eng-reading-p1-q1",
+    "bank": "english",
+    "section": "reading",
+    "level": null,
+    "case_id": "reading-passage-1",
+    "case_title": "Reading Passage 1",
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Passage 1, Question 1: Based on the text, what does...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-reading-p1-q2",
+    "bank": "english",
+    "section": "reading",
+    "level": null,
+    "case_id": "reading-passage-1",
+    "case_title": "Reading Passage 1",
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Passage 1, Question 2: Based on the text, what does...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-reading-p1-q3",
+    "bank": "english",
+    "section": "reading",
+    "level": null,
+    "case_id": "reading-passage-1",
+    "case_title": "Reading Passage 1",
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Passage 1, Question 3: Based on the text, what does...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-reading-p1-q4",
+    "bank": "english",
+    "section": "reading",
+    "level": null,
+    "case_id": "reading-passage-1",
+    "case_title": "Reading Passage 1",
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Passage 1, Question 4: Based on the text, what does...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-reading-p1-q5",
+    "bank": "english",
+    "section": "reading",
+    "level": null,
+    "case_id": "reading-passage-1",
+    "case_title": "Reading Passage 1",
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Passage 1, Question 5: Based on the text, what does...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-reading-p2-q1",
+    "bank": "english",
+    "section": "reading",
+    "level": null,
+    "case_id": "reading-passage-2",
+    "case_title": "Reading Passage 2",
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Passage 2, Question 1: Based on the text, what does...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-reading-p2-q2",
+    "bank": "english",
+    "section": "reading",
+    "level": null,
+    "case_id": "reading-passage-2",
+    "case_title": "Reading Passage 2",
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Passage 2, Question 2: Based on the text, what does...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-reading-p2-q3",
+    "bank": "english",
+    "section": "reading",
+    "level": null,
+    "case_id": "reading-passage-2",
+    "case_title": "Reading Passage 2",
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Passage 2, Question 3: Based on the text, what does...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-reading-p2-q4",
+    "bank": "english",
+    "section": "reading",
+    "level": null,
+    "case_id": "reading-passage-2",
+    "case_title": "Reading Passage 2",
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Passage 2, Question 4: Based on the text, what does...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-reading-p2-q5",
+    "bank": "english",
+    "section": "reading",
+    "level": null,
+    "case_id": "reading-passage-2",
+    "case_title": "Reading Passage 2",
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Passage 2, Question 5: Based on the text, what does...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-closure-q01",
+    "bank": "english",
+    "section": "closure",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Case Closure question 1: What is the appropriate status?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-closure-q02",
+    "bank": "english",
+    "section": "closure",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Case Closure question 2: What is the appropriate status?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-closure-q03",
+    "bank": "english",
+    "section": "closure",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Case Closure question 3: What is the appropriate status?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-closure-q04",
+    "bank": "english",
+    "section": "closure",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Case Closure question 4: What is the appropriate status?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-closure-q05",
+    "bank": "english",
+    "section": "closure",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Case Closure question 5: What is the appropriate status?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "eng-closure-q06",
+    "bank": "english",
+    "section": "closure",
+    "level": null,
+    "case_id": null,
+    "case_title": null,
+    "tabs": null,
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "Case Closure question 6: What is the appropriate status?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c01-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-01",
+    "case_title": "L1 Case 1: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 1.",
+      "Booking Details": "Booking details for case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 1, Q1: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c01-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-01",
+    "case_title": "L1 Case 1: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 1.",
+      "Booking Details": "Booking details for case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 1, Q2: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c01-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-01",
+    "case_title": "L1 Case 1: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 1.",
+      "Booking Details": "Booking details for case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_multi",
+    "stem": "L1 Case 1, Q3: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c01-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-01",
+    "case_title": "L1 Case 1: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 1.",
+      "Booking Details": "Booking details for case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 1, Q4: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c02-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-02",
+    "case_title": "L1 Case 2: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 2.",
+      "Booking Details": "Booking details for case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 2, Q1: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c02-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-02",
+    "case_title": "L1 Case 2: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 2.",
+      "Booking Details": "Booking details for case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 2, Q2: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c02-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-02",
+    "case_title": "L1 Case 2: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 2.",
+      "Booking Details": "Booking details for case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_multi",
+    "stem": "L1 Case 2, Q3: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c02-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-02",
+    "case_title": "L1 Case 2: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 2.",
+      "Booking Details": "Booking details for case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 2, Q4: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c03-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-03",
+    "case_title": "L1 Case 3: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 3.",
+      "Booking Details": "Booking details for case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 3, Q1: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c03-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-03",
+    "case_title": "L1 Case 3: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 3.",
+      "Booking Details": "Booking details for case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 3, Q2: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c03-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-03",
+    "case_title": "L1 Case 3: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 3.",
+      "Booking Details": "Booking details for case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_multi",
+    "stem": "L1 Case 3, Q3: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c03-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-03",
+    "case_title": "L1 Case 3: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 3.",
+      "Booking Details": "Booking details for case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 3, Q4: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c04-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-04",
+    "case_title": "L1 Case 4: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 4.",
+      "Booking Details": "Booking details for case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 4, Q1: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c04-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-04",
+    "case_title": "L1 Case 4: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 4.",
+      "Booking Details": "Booking details for case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 4, Q2: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c04-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-04",
+    "case_title": "L1 Case 4: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 4.",
+      "Booking Details": "Booking details for case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_multi",
+    "stem": "L1 Case 4, Q3: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c04-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-04",
+    "case_title": "L1 Case 4: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 4.",
+      "Booking Details": "Booking details for case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 4, Q4: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c05-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-05",
+    "case_title": "L1 Case 5: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 5.",
+      "Booking Details": "Booking details for case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 5, Q1: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c05-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-05",
+    "case_title": "L1 Case 5: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 5.",
+      "Booking Details": "Booking details for case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 5, Q2: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c05-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-05",
+    "case_title": "L1 Case 5: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 5.",
+      "Booking Details": "Booking details for case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_multi",
+    "stem": "L1 Case 5, Q3: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c05-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-05",
+    "case_title": "L1 Case 5: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 5.",
+      "Booking Details": "Booking details for case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 5, Q4: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c06-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-06",
+    "case_title": "L1 Case 6: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 6.",
+      "Booking Details": "Booking details for case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 6, Q1: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c06-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-06",
+    "case_title": "L1 Case 6: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 6.",
+      "Booking Details": "Booking details for case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 6, Q2: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c06-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-06",
+    "case_title": "L1 Case 6: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 6.",
+      "Booking Details": "Booking details for case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_multi",
+    "stem": "L1 Case 6, Q3: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c06-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-06",
+    "case_title": "L1 Case 6: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 6.",
+      "Booking Details": "Booking details for case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 6, Q4: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c07-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-07",
+    "case_title": "L1 Case 7: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 7.",
+      "Booking Details": "Booking details for case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 7, Q1: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c07-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-07",
+    "case_title": "L1 Case 7: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 7.",
+      "Booking Details": "Booking details for case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 7, Q2: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c07-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-07",
+    "case_title": "L1 Case 7: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 7.",
+      "Booking Details": "Booking details for case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_multi",
+    "stem": "L1 Case 7, Q3: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c07-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-07",
+    "case_title": "L1 Case 7: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 7.",
+      "Booking Details": "Booking details for case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 7, Q4: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c08-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-08",
+    "case_title": "L1 Case 8: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 8.",
+      "Booking Details": "Booking details for case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 8, Q1: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c08-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-08",
+    "case_title": "L1 Case 8: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 8.",
+      "Booking Details": "Booking details for case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 8, Q2: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c08-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-08",
+    "case_title": "L1 Case 8: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 8.",
+      "Booking Details": "Booking details for case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_multi",
+    "stem": "L1 Case 8, Q3: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l1-c08-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L1",
+    "case_id": "att-l1-case-08",
+    "case_title": "L1 Case 8: Listing Accuracy Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for case 8.",
+      "Booking Details": "Booking details for case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "L1 Case 8, Q4: What discrepancy do you identify?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c01-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-01",
+    "case_title": "L2 Case 1: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 1.",
+      "Account Information": "Account information for L2 case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 1, Q1: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c01-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-01",
+    "case_title": "L2 Case 1: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 1.",
+      "Account Information": "Account information for L2 case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 1, Q2: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c01-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-01",
+    "case_title": "L2 Case 1: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 1.",
+      "Account Information": "Account information for L2 case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 1, Q3: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c01-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-01",
+    "case_title": "L2 Case 1: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 1.",
+      "Account Information": "Account information for L2 case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_multi",
+    "stem": "L2 Case 1, Q4: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c02-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-02",
+    "case_title": "L2 Case 2: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 2.",
+      "Account Information": "Account information for L2 case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 2, Q1: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c02-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-02",
+    "case_title": "L2 Case 2: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 2.",
+      "Account Information": "Account information for L2 case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 2, Q2: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c02-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-02",
+    "case_title": "L2 Case 2: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 2.",
+      "Account Information": "Account information for L2 case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 2, Q3: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c02-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-02",
+    "case_title": "L2 Case 2: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 2.",
+      "Account Information": "Account information for L2 case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_multi",
+    "stem": "L2 Case 2, Q4: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c03-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-03",
+    "case_title": "L2 Case 3: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 3.",
+      "Account Information": "Account information for L2 case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 3, Q1: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c03-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-03",
+    "case_title": "L2 Case 3: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 3.",
+      "Account Information": "Account information for L2 case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 3, Q2: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c03-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-03",
+    "case_title": "L2 Case 3: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 3.",
+      "Account Information": "Account information for L2 case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 3, Q3: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c03-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-03",
+    "case_title": "L2 Case 3: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 3.",
+      "Account Information": "Account information for L2 case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_multi",
+    "stem": "L2 Case 3, Q4: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c04-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-04",
+    "case_title": "L2 Case 4: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 4.",
+      "Account Information": "Account information for L2 case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 4, Q1: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c04-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-04",
+    "case_title": "L2 Case 4: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 4.",
+      "Account Information": "Account information for L2 case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 4, Q2: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c04-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-04",
+    "case_title": "L2 Case 4: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 4.",
+      "Account Information": "Account information for L2 case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 4, Q3: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c04-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-04",
+    "case_title": "L2 Case 4: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 4.",
+      "Account Information": "Account information for L2 case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_multi",
+    "stem": "L2 Case 4, Q4: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c05-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-05",
+    "case_title": "L2 Case 5: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 5.",
+      "Account Information": "Account information for L2 case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 5, Q1: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c05-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-05",
+    "case_title": "L2 Case 5: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 5.",
+      "Account Information": "Account information for L2 case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 5, Q2: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c05-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-05",
+    "case_title": "L2 Case 5: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 5.",
+      "Account Information": "Account information for L2 case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 5, Q3: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c05-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-05",
+    "case_title": "L2 Case 5: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 5.",
+      "Account Information": "Account information for L2 case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_multi",
+    "stem": "L2 Case 5, Q4: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c06-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-06",
+    "case_title": "L2 Case 6: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 6.",
+      "Account Information": "Account information for L2 case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 6, Q1: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c06-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-06",
+    "case_title": "L2 Case 6: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 6.",
+      "Account Information": "Account information for L2 case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 6, Q2: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c06-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-06",
+    "case_title": "L2 Case 6: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 6.",
+      "Account Information": "Account information for L2 case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 6, Q3: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c06-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-06",
+    "case_title": "L2 Case 6: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 6.",
+      "Account Information": "Account information for L2 case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_multi",
+    "stem": "L2 Case 6, Q4: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c07-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-07",
+    "case_title": "L2 Case 7: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 7.",
+      "Account Information": "Account information for L2 case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 7, Q1: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c07-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-07",
+    "case_title": "L2 Case 7: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 7.",
+      "Account Information": "Account information for L2 case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 7, Q2: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c07-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-07",
+    "case_title": "L2 Case 7: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 7.",
+      "Account Information": "Account information for L2 case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 7, Q3: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c07-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-07",
+    "case_title": "L2 Case 7: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 7.",
+      "Account Information": "Account information for L2 case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_multi",
+    "stem": "L2 Case 7, Q4: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c08-q1",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-08",
+    "case_title": "L2 Case 8: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 8.",
+      "Account Information": "Account information for L2 case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "straightforward",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 8, Q1: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c08-q2",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-08",
+    "case_title": "L2 Case 8: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 8.",
+      "Account Information": "Account information for L2 case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 8, Q2: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c08-q3",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-08",
+    "case_title": "L2 Case 8: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 8.",
+      "Account Information": "Account information for L2 case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "L2 Case 8, Q3: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": "att-l2-c08-q4",
+    "bank": "attention",
+    "section": "attention",
+    "level": "L2",
+    "case_id": "att-l2-case-08",
+    "case_title": "L2 Case 8: Account & Fraud Pattern Investigation",
+    "tabs": {
+      "Customer Report": "Customer report content for L2 case 8.",
+      "Account Information": "Account information for L2 case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_multi",
+    "stem": "L2 Case 8, Q4: Evaluate the account activity pattern.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c01-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-01",
+    "case_title": "CT Case 1: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 1.",
+      "Booking Details": "Booking details for CT case 1.",
+      "Review Information": "Review info for CT case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 1, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c01-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-01",
+    "case_title": "CT Case 1: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 1.",
+      "Booking Details": "Booking details for CT case 1.",
+      "Review Information": "Review info for CT case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 1, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c01-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-01",
+    "case_title": "CT Case 1: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 1.",
+      "Booking Details": "Booking details for CT case 1.",
+      "Review Information": "Review info for CT case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 1, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c01-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-01",
+    "case_title": "CT Case 1: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 1.",
+      "Booking Details": "Booking details for CT case 1.",
+      "Review Information": "Review info for CT case 1."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 1, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c02-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-02",
+    "case_title": "CT Case 2: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 2.",
+      "Booking Details": "Booking details for CT case 2.",
+      "Review Information": "Review info for CT case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 2, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c02-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-02",
+    "case_title": "CT Case 2: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 2.",
+      "Booking Details": "Booking details for CT case 2.",
+      "Review Information": "Review info for CT case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 2, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c02-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-02",
+    "case_title": "CT Case 2: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 2.",
+      "Booking Details": "Booking details for CT case 2.",
+      "Review Information": "Review info for CT case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 2, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c02-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-02",
+    "case_title": "CT Case 2: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 2.",
+      "Booking Details": "Booking details for CT case 2.",
+      "Review Information": "Review info for CT case 2."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 2, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c03-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-03",
+    "case_title": "CT Case 3: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 3.",
+      "Booking Details": "Booking details for CT case 3.",
+      "Review Information": "Review info for CT case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 3, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c03-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-03",
+    "case_title": "CT Case 3: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 3.",
+      "Booking Details": "Booking details for CT case 3.",
+      "Review Information": "Review info for CT case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 3, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c03-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-03",
+    "case_title": "CT Case 3: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 3.",
+      "Booking Details": "Booking details for CT case 3.",
+      "Review Information": "Review info for CT case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 3, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c03-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-03",
+    "case_title": "CT Case 3: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 3.",
+      "Booking Details": "Booking details for CT case 3.",
+      "Review Information": "Review info for CT case 3."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 3, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c04-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-04",
+    "case_title": "CT Case 4: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 4.",
+      "Booking Details": "Booking details for CT case 4.",
+      "Review Information": "Review info for CT case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 4, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c04-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-04",
+    "case_title": "CT Case 4: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 4.",
+      "Booking Details": "Booking details for CT case 4.",
+      "Review Information": "Review info for CT case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 4, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c04-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-04",
+    "case_title": "CT Case 4: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 4.",
+      "Booking Details": "Booking details for CT case 4.",
+      "Review Information": "Review info for CT case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 4, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c04-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-04",
+    "case_title": "CT Case 4: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 4.",
+      "Booking Details": "Booking details for CT case 4.",
+      "Review Information": "Review info for CT case 4."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 4, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c05-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-05",
+    "case_title": "CT Case 5: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 5.",
+      "Booking Details": "Booking details for CT case 5.",
+      "Review Information": "Review info for CT case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 5, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c05-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-05",
+    "case_title": "CT Case 5: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 5.",
+      "Booking Details": "Booking details for CT case 5.",
+      "Review Information": "Review info for CT case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 5, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c05-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-05",
+    "case_title": "CT Case 5: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 5.",
+      "Booking Details": "Booking details for CT case 5.",
+      "Review Information": "Review info for CT case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 5, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c05-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-05",
+    "case_title": "CT Case 5: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 5.",
+      "Booking Details": "Booking details for CT case 5.",
+      "Review Information": "Review info for CT case 5."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 5, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c06-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-06",
+    "case_title": "CT Case 6: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 6.",
+      "Booking Details": "Booking details for CT case 6.",
+      "Review Information": "Review info for CT case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 6, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c06-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-06",
+    "case_title": "CT Case 6: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 6.",
+      "Booking Details": "Booking details for CT case 6.",
+      "Review Information": "Review info for CT case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 6, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c06-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-06",
+    "case_title": "CT Case 6: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 6.",
+      "Booking Details": "Booking details for CT case 6.",
+      "Review Information": "Review info for CT case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 6, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c06-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-06",
+    "case_title": "CT Case 6: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 6.",
+      "Booking Details": "Booking details for CT case 6.",
+      "Review Information": "Review info for CT case 6."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 6, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c07-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-07",
+    "case_title": "CT Case 7: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 7.",
+      "Booking Details": "Booking details for CT case 7.",
+      "Review Information": "Review info for CT case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 7, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c07-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-07",
+    "case_title": "CT Case 7: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 7.",
+      "Booking Details": "Booking details for CT case 7.",
+      "Review Information": "Review info for CT case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 7, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c07-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-07",
+    "case_title": "CT Case 7: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 7.",
+      "Booking Details": "Booking details for CT case 7.",
+      "Review Information": "Review info for CT case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 7, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c07-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-07",
+    "case_title": "CT Case 7: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 7.",
+      "Booking Details": "Booking details for CT case 7.",
+      "Review Information": "Review info for CT case 7."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 7, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c08-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-08",
+    "case_title": "CT Case 8: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 8.",
+      "Booking Details": "Booking details for CT case 8.",
+      "Review Information": "Review info for CT case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 8, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c08-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-08",
+    "case_title": "CT Case 8: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 8.",
+      "Booking Details": "Booking details for CT case 8.",
+      "Review Information": "Review info for CT case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 8, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c08-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-08",
+    "case_title": "CT Case 8: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 8.",
+      "Booking Details": "Booking details for CT case 8.",
+      "Review Information": "Review info for CT case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 8, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c08-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-08",
+    "case_title": "CT Case 8: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 8.",
+      "Booking Details": "Booking details for CT case 8.",
+      "Review Information": "Review info for CT case 8."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 8, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c09-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-09",
+    "case_title": "CT Case 9: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 9.",
+      "Booking Details": "Booking details for CT case 9.",
+      "Review Information": "Review info for CT case 9."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 9, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c09-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-09",
+    "case_title": "CT Case 9: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 9.",
+      "Booking Details": "Booking details for CT case 9.",
+      "Review Information": "Review info for CT case 9."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 9, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c09-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-09",
+    "case_title": "CT Case 9: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 9.",
+      "Booking Details": "Booking details for CT case 9.",
+      "Review Information": "Review info for CT case 9."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 9, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c09-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-09",
+    "case_title": "CT Case 9: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 9.",
+      "Booking Details": "Booking details for CT case 9.",
+      "Review Information": "Review info for CT case 9."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 9, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c10-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-10",
+    "case_title": "CT Case 10: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 10.",
+      "Booking Details": "Booking details for CT case 10.",
+      "Review Information": "Review info for CT case 10."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 10, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c10-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-10",
+    "case_title": "CT Case 10: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 10.",
+      "Booking Details": "Booking details for CT case 10.",
+      "Review Information": "Review info for CT case 10."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 10, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c10-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-10",
+    "case_title": "CT Case 10: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 10.",
+      "Booking Details": "Booking details for CT case 10.",
+      "Review Information": "Review info for CT case 10."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 10, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c10-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-10",
+    "case_title": "CT Case 10: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 10.",
+      "Booking Details": "Booking details for CT case 10.",
+      "Review Information": "Review info for CT case 10."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 10, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c11-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-11",
+    "case_title": "CT Case 11: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 11.",
+      "Booking Details": "Booking details for CT case 11.",
+      "Review Information": "Review info for CT case 11."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 11, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c11-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-11",
+    "case_title": "CT Case 11: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 11.",
+      "Booking Details": "Booking details for CT case 11.",
+      "Review Information": "Review info for CT case 11."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 11, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c11-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-11",
+    "case_title": "CT Case 11: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 11.",
+      "Booking Details": "Booking details for CT case 11.",
+      "Review Information": "Review info for CT case 11."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 11, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c11-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-11",
+    "case_title": "CT Case 11: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 11.",
+      "Booking Details": "Booking details for CT case 11.",
+      "Review Information": "Review info for CT case 11."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 11, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c12-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-12",
+    "case_title": "CT Case 12: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 12.",
+      "Booking Details": "Booking details for CT case 12.",
+      "Review Information": "Review info for CT case 12."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 12, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c12-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-12",
+    "case_title": "CT Case 12: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 12.",
+      "Booking Details": "Booking details for CT case 12.",
+      "Review Information": "Review info for CT case 12."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 12, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c12-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-12",
+    "case_title": "CT Case 12: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 12.",
+      "Booking Details": "Booking details for CT case 12.",
+      "Review Information": "Review info for CT case 12."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 12, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c12-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-12",
+    "case_title": "CT Case 12: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 12.",
+      "Booking Details": "Booking details for CT case 12.",
+      "Review Information": "Review info for CT case 12."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 12, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c13-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-13",
+    "case_title": "CT Case 13: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 13.",
+      "Booking Details": "Booking details for CT case 13.",
+      "Review Information": "Review info for CT case 13."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 13, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c13-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-13",
+    "case_title": "CT Case 13: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 13.",
+      "Booking Details": "Booking details for CT case 13.",
+      "Review Information": "Review info for CT case 13."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 13, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c13-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-13",
+    "case_title": "CT Case 13: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 13.",
+      "Booking Details": "Booking details for CT case 13.",
+      "Review Information": "Review info for CT case 13."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 13, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c13-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-13",
+    "case_title": "CT Case 13: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 13.",
+      "Booking Details": "Booking details for CT case 13.",
+      "Review Information": "Review info for CT case 13."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 13, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c14-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-14",
+    "case_title": "CT Case 14: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 14.",
+      "Booking Details": "Booking details for CT case 14.",
+      "Review Information": "Review info for CT case 14."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 14, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c14-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-14",
+    "case_title": "CT Case 14: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 14.",
+      "Booking Details": "Booking details for CT case 14.",
+      "Review Information": "Review info for CT case 14."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 14, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c14-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-14",
+    "case_title": "CT Case 14: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 14.",
+      "Booking Details": "Booking details for CT case 14.",
+      "Review Information": "Review info for CT case 14."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 14, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c14-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-14",
+    "case_title": "CT Case 14: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 14.",
+      "Booking Details": "Booking details for CT case 14.",
+      "Review Information": "Review info for CT case 14."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 14, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c15-q1",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-15",
+    "case_title": "CT Case 15: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 15.",
+      "Booking Details": "Booking details for CT case 15.",
+      "Review Information": "Review info for CT case 15."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 15, Q1: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c15-q2",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-15",
+    "case_title": "CT Case 15: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 15.",
+      "Booking Details": "Booking details for CT case 15.",
+      "Review Information": "Review info for CT case 15."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 15, Q2: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c15-q3",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-15",
+    "case_title": "CT Case 15: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 15.",
+      "Booking Details": "Booking details for CT case 15.",
+      "Review Information": "Review info for CT case 15."
+    },
+    "tables": null,
+    "difficulty_tier": "moderate",
+    "response_type": "mcq_single",
+    "stem": "CT Case 15, Q3: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "ct-c15-q4",
+    "bank": "critical",
+    "section": "risk_assessment",
+    "level": null,
+    "case_id": "ct-case-15",
+    "case_title": "CT Case 15: Risk Assessment & Business Decision",
+    "tabs": {
+      "Customer Report": "Customer report for CT case 15.",
+      "Booking Details": "Booking details for CT case 15.",
+      "Review Information": "Review info for CT case 15."
+    },
+    "tables": null,
+    "difficulty_tier": "complex",
+    "response_type": "mcq_single",
+    "stem": "CT Case 15, Q4: Based on the evidence, what is your recommendation?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Option A",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "Option B",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "Option C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Option D",
+        "is_correct": false
+      }
+    ]
+  }
+]
